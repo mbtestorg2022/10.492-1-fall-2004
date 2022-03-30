@@ -28,7 +28,7 @@ DESCRIPTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-calc\_f.m ([M](/courses/chemical-engineering/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/tools/calc_f.m))
+calc\_f.m ({{% resource_link "5cacd7ee-6420-7933-5ede-b9c653551b7d" "M" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Contains a system of equations that describes the steady-state operation of a heat exchanger network.
@@ -37,7 +37,7 @@ Contains a system of equations that describes the steady-state operation of a he
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-calc\_Jac.m ([M](/courses/chemical-engineering/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/tools/calc_Jac.m))
+calc\_Jac.m ({{% resource_link "f0d59177-77a5-f1ae-c9cd-454cc28c6973" "M" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Function to calculate the Jacobian matrix for a set of nonlinear algebraic equations. A simple central differencing scheme is used.
@@ -46,7 +46,7 @@ Function to calculate the Jacobian matrix for a set of nonlinear algebraic equat
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-ice\_root.m ([M](/courses/chemical-engineering/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/tools/ice_root.m))
+ice\_root.m ({{% resource_link "11438f91-6c39-009b-76c3-1df2056a4eb2" "M" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Calculates the RGA (relative gain array) and DC (disturbance cost) for the 10.492 heat exchanger network.
@@ -55,7 +55,7 @@ Calculates the RGA (relative gain array) and DC (disturbance cost) for the 10.49
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-reduced\_Newton.m ([M](/courses/chemical-engineering/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/tools/reduced_Newton.m))
+reduced\_Newton.m ({{% resource_link "3fe1ffed-07cc-2d74-c6c6-120be76f22b6" "M" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Uses a reduced-Newton algorithm with a weak line search to solve a set of non-linear algebraic equations.
